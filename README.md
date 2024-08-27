@@ -4,6 +4,7 @@ Certainly! Here's a concise README file for the `EducationAnalytics` smart contr
 ---
 
 # EducationAnalytics Smart Contract
+![image](https://github.com/user-attachments/assets/95ebea98-b69b-4b8a-9ab2-534f05554d6a)
 
 ## Vision
 
