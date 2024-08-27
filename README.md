@@ -41,11 +41,14 @@ Contract Address: 0xYourContractAddress
 ```
 
 ## Contract Details
+0x74056ac99a86d9ad3c7e10efc8dd0dafd9a1741c
 
 - **Contract Name:** `EducationAnalytics`
 - **Compiler Version:** Solidity ^0.8.0
 - **Access Control:** Only the contract owner can add grades and generate reports.
+ 
 
+  
 ### Key Functions
 
 - **`addGrade(address _student, string memory _subject, uint256 _score)`**: Adds a grade for a student. Restricted to the contract owner.
